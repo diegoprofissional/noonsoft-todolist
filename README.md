@@ -12,6 +12,7 @@ a aplicação não funcionará.
 O projeto frontend foi componentizado os principais aspectos da aplicação como, formulário de cadastro de tarefa, itens das tarefas, modal de edição entre outros.
 
 --desafios encontrados
+
 Vue: tinha estudado Vue há cerca de 8 anos atrás. Meu conhecimento era só teórico e lembrava quase nada. Tive um grande desafio de aprender o suficiente para implementar a solução.
 
 C#: Eu trabalhei cerca de 6 meses em uma empresa há 12 anos atrás. Já tinha uma familiaridade, mas, também, tive que pesquisar para conseguir reproduzir o teste.
