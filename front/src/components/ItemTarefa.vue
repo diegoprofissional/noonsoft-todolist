@@ -13,13 +13,14 @@
  <div class="blocoBotoes">
       <div class="botoes-container">
         <div class="botao">
-          <i style="color:#fff" @click="editar" class="fa-solid fa-pencil"></i>
+        
+          <i  @click="editar" class="fa-solid fa-pencil"></i>
         </div>
         <div class="botao">
-          <i style="color:#fff" @click="deletar" class="fa-solid fa-trash"></i>
+          <i  @click="deletar" class="fa-solid fa-trash"></i>
         </div>
         <div class="botao">
-          <i style="color:#0f0" @click="marcarConcluida" class="fa-solid fa-check"></i>
+          <i style="color:#0f0"  @click="marcarConcluida" class="fa-solid fa-check"></i>
         </div>
       </div>
 </div>
@@ -101,8 +102,13 @@ methods:  {
   align-items: center;
   justify-content: center;
   flex: 1;
+  color: #fff;
+  cursor: pointer;
 }
 
+.icone {
+
+}
 
 button {
     background-color:#f0f

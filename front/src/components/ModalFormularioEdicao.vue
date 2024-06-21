@@ -5,18 +5,18 @@
       <div class="modal-dialog">
         <div class="modal-content">
           <div class="modal-header">
-            <h5 class="modal-title" id="exampleModalLabel">Editar Tarefa {{id}}</h5>
+            <h5 class="modal-title" id="exampleModalLabel">Editar Tarefa</h5>
             <button type="button" @click="visivel = false" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
           </div>
           <div class="modal-body">
             
             <div>
-           <label>titulo</label>
+           <div> <label>titulo:</label> </div>
             <input v-model="titulo">
             </div>
 
           <div>
-             <label>objetivo</label>
+           <div>  <label>objetivo:</label></div>
             <input v-model="objetivo">
           </div>
           </div>

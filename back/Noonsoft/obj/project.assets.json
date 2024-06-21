@@ -433,11 +433,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\55169\\Desktop\\projeto\\backend-todolist-main\\Noonsoft\\Noonsoft.csproj",
+      "projectUniqueName": "C:\\repositorio_noonsoft\\back\\Noonsoft\\Noonsoft.csproj",
       "projectName": "Noonsoft",
-      "projectPath": "C:\\Users\\55169\\Desktop\\projeto\\backend-todolist-main\\Noonsoft\\Noonsoft.csproj",
+      "projectPath": "C:\\repositorio_noonsoft\\back\\Noonsoft\\Noonsoft.csproj",
       "packagesPath": "C:\\Users\\55169\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\55169\\Desktop\\projeto\\backend-todolist-main\\Noonsoft\\obj\\",
+      "outputPath": "C:\\repositorio_noonsoft\\back\\Noonsoft\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\55169\\AppData\\Roaming\\NuGet\\NuGet.Config",

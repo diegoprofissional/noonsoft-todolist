@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UEZtZzs7+Jk=",
+  "dgSpecHash": "+9tlDUov39g=",
   "success": true,
-  "projectFilePath": "C:\\Users\\55169\\Desktop\\projeto\\backend-todolist-main\\Noonsoft\\Noonsoft.csproj",
+  "projectFilePath": "C:\\repositorio_noonsoft\\back\\Noonsoft\\Noonsoft.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\55169\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\55169\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

@@ -8,7 +8,7 @@
 
     <div class="blocoBotao">
       <div class="botao">
-        <i style="color: #fff" @click="deletar" class="fa-solid fa-trash"></i>
+        <i style="color: #fff; cursor:pointer" @click="deletar" class="fa-solid fa-trash"></i>
       </div>
     </div>
   </div>
