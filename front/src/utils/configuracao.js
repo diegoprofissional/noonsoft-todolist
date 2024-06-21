@@ -1,0 +1,1 @@
+export const urlBackend = 'http://localhost:5243';

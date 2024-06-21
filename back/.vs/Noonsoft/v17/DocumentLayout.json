@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\55169\\Desktop\\projeto\\backend-todolist-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F502F918-BF93-48DB-9913-E907A4E43C4D}|Noonsoft\\Noonsoft.csproj|c:\\users\\55169\\desktop\\projeto\\backend-todolist-main\\noonsoft\\services\\tarefaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F502F918-BF93-48DB-9913-E907A4E43C4D}|Noonsoft\\Noonsoft.csproj|solutionrelative:noonsoft\\services\\tarefaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F502F918-BF93-48DB-9913-E907A4E43C4D}|Noonsoft\\Noonsoft.csproj|c:\\users\\55169\\desktop\\projeto\\backend-todolist-main\\noonsoft\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F502F918-BF93-48DB-9913-E907A4E43C4D}|Noonsoft\\Noonsoft.csproj|solutionrelative:noonsoft\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F502F918-BF93-48DB-9913-E907A4E43C4D}|Noonsoft\\Noonsoft.csproj|c:\\users\\55169\\desktop\\projeto\\backend-todolist-main\\noonsoft\\controllers\\tarefascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F502F918-BF93-48DB-9913-E907A4E43C4D}|Noonsoft\\Noonsoft.csproj|solutionrelative:noonsoft\\controllers\\tarefascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F502F918-BF93-48DB-9913-E907A4E43C4D}|Noonsoft\\Noonsoft.csproj|c:\\users\\55169\\desktop\\projeto\\backend-todolist-main\\noonsoft\\interfaces\\itarefaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F502F918-BF93-48DB-9913-E907A4E43C4D}|Noonsoft\\Noonsoft.csproj|solutionrelative:noonsoft\\interfaces\\itarefaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F502F918-BF93-48DB-9913-E907A4E43C4D}|Noonsoft\\Noonsoft.csproj|c:\\users\\55169\\desktop\\projeto\\backend-todolist-main\\noonsoft\\entities\\tarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F502F918-BF93-48DB-9913-E907A4E43C4D}|Noonsoft\\Noonsoft.csproj|solutionrelative:noonsoft\\entities\\tarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F502F918-BF93-48DB-9913-E907A4E43C4D}|Noonsoft\\Noonsoft.csproj|c:\\users\\55169\\desktop\\projeto\\backend-todolist-main\\noonsoft\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F502F918-BF93-48DB-9913-E907A4E43C4D}|Noonsoft\\Noonsoft.csproj|solutionrelative:noonsoft\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F502F918-BF93-48DB-9913-E907A4E43C4D}|Noonsoft\\Noonsoft.csproj|c:\\users\\55169\\desktop\\projeto\\backend-todolist-main\\noonsoft\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F502F918-BF93-48DB-9913-E907A4E43C4D}|Noonsoft\\Noonsoft.csproj|solutionrelative:noonsoft\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F502F918-BF93-48DB-9913-E907A4E43C4D}|Noonsoft\\Noonsoft.csproj|c:\\users\\55169\\desktop\\projeto\\backend-todolist-main\\noonsoft\\noonsoft.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F502F918-BF93-48DB-9913-E907A4E43C4D}|Noonsoft\\Noonsoft.csproj|solutionrelative:noonsoft\\noonsoft.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ITarefaService.cs",
+              "DocumentMoniker": "C:\\Users\\55169\\Desktop\\projeto\\backend-todolist-main\\Noonsoft\\interfaces\\ITarefaService.cs",
+              "RelativeDocumentMoniker": "Noonsoft\\interfaces\\ITarefaService.cs",
+              "ToolTip": "C:\\Users\\55169\\Desktop\\projeto\\backend-todolist-main\\Noonsoft\\interfaces\\ITarefaService.cs",
+              "RelativeToolTip": "Noonsoft\\interfaces\\ITarefaService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T19:25:11.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\55169\\Desktop\\projeto\\backend-todolist-main\\Noonsoft\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Noonsoft\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\55169\\Desktop\\projeto\\backend-todolist-main\\Noonsoft\\WeatherForecast.cs",
+              "RelativeToolTip": "Noonsoft\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T19:09:33.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\55169\\Desktop\\projeto\\backend-todolist-main\\Noonsoft\\appsettings.json",
+              "RelativeDocumentMoniker": "Noonsoft\\appsettings.json",
+              "ToolTip": "C:\\Users\\55169\\Desktop\\projeto\\backend-todolist-main\\Noonsoft\\appsettings.json",
+              "RelativeToolTip": "Noonsoft\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-19T19:09:31.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\55169\\Desktop\\projeto\\backend-todolist-main\\Noonsoft\\Program.cs",
+              "RelativeDocumentMoniker": "Noonsoft\\Program.cs",
+              "ToolTip": "C:\\Users\\55169\\Desktop\\projeto\\backend-todolist-main\\Noonsoft\\Program.cs",
+              "RelativeToolTip": "Noonsoft\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAiwCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T18:51:50.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TarefaService.cs",
+              "DocumentMoniker": "C:\\Users\\55169\\Desktop\\projeto\\backend-todolist-main\\Noonsoft\\services\\TarefaService.cs",
+              "RelativeDocumentMoniker": "Noonsoft\\services\\TarefaService.cs",
+              "ToolTip": "C:\\Users\\55169\\Desktop\\projeto\\backend-todolist-main\\Noonsoft\\services\\TarefaService.cs",
+              "RelativeToolTip": "Noonsoft\\services\\TarefaService.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAowDYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T19:07:43.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Tarefa.cs",
+              "DocumentMoniker": "C:\\Users\\55169\\Desktop\\projeto\\backend-todolist-main\\Noonsoft\\Entities\\Tarefa.cs",
+              "RelativeDocumentMoniker": "Noonsoft\\Entities\\Tarefa.cs",
+              "ToolTip": "C:\\Users\\55169\\Desktop\\projeto\\backend-todolist-main\\Noonsoft\\Entities\\Tarefa.cs",
+              "RelativeToolTip": "Noonsoft\\Entities\\Tarefa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T18:29:13.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Noonsoft.csproj",
+              "DocumentMoniker": "C:\\Users\\55169\\Desktop\\projeto\\backend-todolist-main\\Noonsoft\\Noonsoft.csproj",
+              "RelativeDocumentMoniker": "Noonsoft\\Noonsoft.csproj",
+              "ToolTip": "C:\\Users\\55169\\Desktop\\projeto\\backend-todolist-main\\Noonsoft\\Noonsoft.csproj",
+              "RelativeToolTip": "Noonsoft\\Noonsoft.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-19T18:28:10.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TarefasController.cs",
+              "DocumentMoniker": "C:\\Users\\55169\\Desktop\\projeto\\backend-todolist-main\\Noonsoft\\Controllers\\TarefasController.cs",
+              "RelativeDocumentMoniker": "Noonsoft\\Controllers\\TarefasController.cs",
+              "ToolTip": "C:\\Users\\55169\\Desktop\\projeto\\backend-todolist-main\\Noonsoft\\Controllers\\TarefasController.cs",
+              "RelativeToolTip": "Noonsoft\\Controllers\\TarefasController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowCsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T17:38:17.208Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
