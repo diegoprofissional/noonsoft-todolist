@@ -17,4 +17,8 @@ Vue: tinha estudado Vue há cerca de 8 anos atrás. Meu conhecimento era só te�
 
 C#: Eu trabalhei cerca de 6 meses em uma empresa há 12 anos atrás. Já tinha uma familiaridade, mas, também, tive que pesquisar para conseguir reproduzir o teste.
 
+Vídeo do sistema rodando.
+
+[![Video](https://img.youtube.com/vi/rsOcu9Ufa3A/maxresdefault.jpg)](https://www.youtube.com/watch?v=rsOcu9Ufa3A)
+
 
