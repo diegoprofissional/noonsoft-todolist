@@ -19,6 +19,7 @@ C#: Eu trabalhei cerca de 6 meses em uma empresa há 12 anos atrás. Já tinha u
 
 Vídeo do sistema rodando.
 
+
 [![Video](https://img.youtube.com/vi/rsOcu9Ufa3A/maxresdefault.jpg)](https://www.youtube.com/watch?v=rsOcu9Ufa3A)
 
 
