@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Noonsoft")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ca9d694f243babb0bae6bb004b9156ec7ab7ab83")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d5173fe6e66ccc02954b7a76a64eef3af5b7eed9")]
 [assembly: System.Reflection.AssemblyProductAttribute("Noonsoft")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Noonsoft")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

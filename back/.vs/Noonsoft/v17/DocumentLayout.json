@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{F502F918-BF93-48DB-9913-E907A4E43C4D}|Noonsoft\\Noonsoft.csproj|solutionrelative:noonsoft\\services\\tarefaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F502F918-BF93-48DB-9913-E907A4E43C4D}|Noonsoft\\Noonsoft.csproj|c:\\repositorio_noonsoft\\back\\noonsoft\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F502F918-BF93-48DB-9913-E907A4E43C4D}|Noonsoft\\Noonsoft.csproj|solutionrelative:noonsoft\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F502F918-BF93-48DB-9913-E907A4E43C4D}|Noonsoft\\Noonsoft.csproj|c:\\repositorio_noonsoft\\back\\noonsoft\\controllers\\tarefascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F502F918-BF93-48DB-9913-E907A4E43C4D}|Noonsoft\\Noonsoft.csproj|solutionrelative:noonsoft\\controllers\\tarefascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F502F918-BF93-48DB-9913-E907A4E43C4D}|Noonsoft\\Noonsoft.csproj|c:\\repositorio_noonsoft\\back\\noonsoft\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F502F918-BF93-48DB-9913-E907A4E43C4D}|Noonsoft\\Noonsoft.csproj|solutionrelative:noonsoft\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F502F918-BF93-48DB-9913-E907A4E43C4D}|Noonsoft\\Noonsoft.csproj|c:\\repositorio_noonsoft\\back\\noonsoft\\interfaces\\itarefaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -86,7 +86,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\repositorio_noonsoft\\back\\Noonsoft\\Program.cs",
               "RelativeDocumentMoniker": "Noonsoft\\Program.cs",
@@ -104,7 +104,7 @@
               "RelativeDocumentMoniker": "Noonsoft\\services\\TarefaService.cs",
               "ToolTip": "C:\\repositorio_noonsoft\\back\\Noonsoft\\services\\TarefaService.cs",
               "RelativeToolTip": "Noonsoft\\services\\TarefaService.cs",
-              "ViewState": "AQIAACIAAAAAAAAAAAAowDAAAAAAAAAA",
+              "ViewState": "AQIAABoAAAAAAAAAAAA9wCcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-19T19:07:43.54Z",
               "EditorCaption": ""
@@ -135,13 +135,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "TarefasController.cs",
               "DocumentMoniker": "C:\\repositorio_noonsoft\\back\\Noonsoft\\Controllers\\TarefasController.cs",
               "RelativeDocumentMoniker": "Noonsoft\\Controllers\\TarefasController.cs",
               "ToolTip": "C:\\repositorio_noonsoft\\back\\Noonsoft\\Controllers\\TarefasController.cs",
               "RelativeToolTip": "Noonsoft\\Controllers\\TarefasController.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAowCsAAAAtAAAA",
+              "ViewState": "AQIAACkAAAAAAAAAAAAIwD4AAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-19T17:38:17.208Z"
             }

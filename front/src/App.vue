@@ -33,7 +33,7 @@
   </div>
   <div v-if="botaoConcluidas === true">
     <ItemTarefaConcluida
-      @atualizarListaTarefas="atualizarListaTarefas"
+      @atualizarListaTarefasConcluidas="atualizarListaTarefasConcluidas"
       v-for="tarefa in tarefas"
       :titulo="tarefa.titulo"
       :id="tarefa.id"
@@ -80,8 +80,9 @@ export default {
     };
   },
   mounted() {
-    axios.get(`${urlBackend}/tarefas`).then((resultado) => {
+     axios.get(`${urlBackend}/tarefas`).then((resultado) => {
       this.tarefas = resultado.data;
+    }).catch(() => {
     });
   },
   methods: {
@@ -93,32 +94,40 @@ export default {
           this.botaoParaFazerAtivo = true;
           this.botaoConcluidas = false;
         })
-        .catch((error) => {
-          console.error("Erro ao buscar tarefas: ", error);
+        .catch(() => {
+          alert('Erro ao se conectar com o servidor!')
+        });
+    },
+     atualizarListaTarefasConcluidas() {
+      axios
+        .get(`${urlBackend}/tarefas/concluidas`)
+        .then((resultado) => {
+          this.tarefas = resultado.data;
+          
+        })
+        .catch(() => {
+          alert('Erro ao se conectar com o servidor!')
         });
     },
     mudarBotaoSelecionado(botao) {
       if (botao == "concluidas") {
         this.botaoConcluidas = true;
         this.botaoParaFazerAtivo = false;
-
-        axios
+   
+          axios
           .get(`${urlBackend}/tarefas/concluidas`)
           .then((resultado) => {
             this.tarefas = resultado.data;
           });
+        
       } else {
         this.botaoConcluidas = false;
         this.botaoParaFazerAtivo = true;
 
-        axios
-          .get(`${urlBackend}/tarefas`)
-          .then((resultado) => {
-            this.tarefas = resultado.data;
-          })
-          .catch((error) => {
-            console.error("Erro ao buscar tarefas: ", error);
-          });
+         axios.get(`${urlBackend}/tarefas`).then((resultado) => {
+      this.tarefas = resultado.data;
+    }).catch(() => {
+    });
       }
     },
     exibirModalEditar(data) {
@@ -127,6 +136,10 @@ export default {
     },
   },
 };
+
+
+
+
 </script>
 
 <style>

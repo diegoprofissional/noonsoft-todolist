@@ -6,9 +6,13 @@
       {{ objetivo }}
     </div>
 
-    <div class="blocoBotao">
-      <div class="botao">
-        <i style="color: #fff; cursor:pointer" @click="deletar" class="fa-solid fa-trash"></i>
+    <div class="blocoBotoes">
+      <div class="botoes-container">
+        
+        <div class="botao">
+          <i @click="deletar" class="fa-solid fa-trash"></i>
+        </div>
+        
       </div>
     </div>
   </div>
@@ -26,7 +30,7 @@ export default {
   methods: {
     deletar() {
       axios.delete(`${urlBackend}/tarefas` + "/" + this.id).then(() => {
-        this.$emit("atualizar-lista-tarefas");
+        this.$emit("atualizar-lista-tarefas-concluidas");
       });
     },
   },
@@ -38,14 +42,37 @@ export default {
   display: flex;
   flex-direction: row;
   background-color: #404040;
+  margin: 10px;
+
 }
 
 .bloco {
   flex: 9;
+  padding: 10px;
+
+
 }
 
-.blocoBotao {
+
+.blocoBotoes {
   flex: 1;
+}
+
+.botoes-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+
+.botao {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex: 1;
+  color: #fff;
+  cursor: pointer;
 }
 
 button {

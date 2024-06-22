@@ -54,9 +54,17 @@ namespace Noonsoft.Controllers
 
         [Route("{id}")]
         [HttpPut]
-        public void Put([FromRoute] int id, [FromBody] Tarefa tarefa)
+        public IActionResult Put([FromRoute] int id, [FromBody] Tarefa tarefa)
         {
+
+            if (tarefa.titulo == "" || tarefa.objetivo == "")
+            {
+                return BadRequest("titulo e objetivo são obrigatórios");
+            }
+
             _tarefaService.UpdateTarefa(id, tarefa);
+
+            return Ok("Tarefa atualizada com sucesso!");
         }
 
         [Route("concluidas")]
